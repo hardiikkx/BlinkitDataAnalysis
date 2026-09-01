@@ -57,17 +57,6 @@ Through this project, I transformed raw Blinkit data into meaningful insights by
 * Studying sales trends based on outlet establishment
 * Creating an interactive dashboard for easier business analysis
 
-## 📷 Dashboard Preview
 
-*Add your dashboard screenshot here.*
-
-## 📂 Project Files
-
-* `Raw Data` – Original dataset
-* `Dashboard` – Interactive Excel dashboard
-* `KPI` – KPI calculations
-* `Analysis` – Supporting analysis and visualizations
-
-## 🚀 Learning Outcome
 
 This project helped me improve my practical Excel skills and understand how data analysis can be used to answer real-world business questions and support decision-making.
